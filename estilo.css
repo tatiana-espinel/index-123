@@ -1,8 +1,12 @@
+body{
+	background: #ccc;
+}
+
 #principal{
 	width: 800px;
 	height: 10;
 	border: 0px solid #000;
-  margin: auto;
+    margin: auto;
 
 }
 
@@ -21,7 +25,7 @@ header{
 }
 
 .titulo{
-	margin-top: 22px;
+ margin-top: 22px;
  font-size:25px;
 }
 
@@ -35,7 +39,7 @@ header{
 	width: 555px;
 	height: 20px;
 	border: 0px solid #000;
-  background: #ccc;
+    background: #ccc;
 	margin: auto;
 	color: #572364;
 }
@@ -122,6 +126,32 @@ header{
 }
 
 #der{
+	width: 300px;
+	height: auto; overflow: hidden;
+	border: 1px solid #000;
+	float: right;
+	color: #572364;
+	background: #DEB887;
+}
+
+#info{
+	width: 900px;
+	height: auto; overflow: hidden;
+	border: 0px solid #000;
+	margin-top: 10px;
+}
+
+#tqm{
+	width: 585px;
+	height: auto; overflow: hidden;
+	border: 1px solid #000;
+	float: left;
+	padding:2px; color: #572364;
+	background: #DEB887;
+	text-align: center;
+}
+
+#mom{
 	width: 300px;
 	height: auto; overflow: hidden;
 	border: 1px solid #000;
