@@ -169,3 +169,36 @@ footer{
 #footer p{
 	width: 500px;
 }
+
+.class1{
+	width: 900px;
+	height: 100px;
+	text-align: center;
+	background: #DEB887;
+}
+
+.class2{
+	width: 900px;
+	height: 100px;
+	text-align: center;
+	background: #DEB887;
+}
+
+
+#redessociales a{
+	width: 795px;
+	height: auto; overflow: hidden;
+	border: 0px solid #000;
+	margin-top: 10px;
+	text-align: center;
+}
+
+#iconosSociales {
+	width: 275px;
+	height: auto; overflow: hidden;
+	border: 0px solid #000;
+	float: right;
+	background: #DEB887;
+	text-align: center;
+}
+
